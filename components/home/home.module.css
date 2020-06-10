@@ -1,0 +1,25 @@
+.wrapper {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.list {
+  display: flex;
+  list-style: none;
+  justify-content: space-evenly
+}
+
+.listItem {
+ cursor: pointer;
+}
+
+.h1{
+  font-size: 50px;
+  font-family: Montserrat;
+  font-weight: 600;
+}
+
+.hr {
+  height: 3px;
+  background-color: black;
+}
